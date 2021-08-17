@@ -1,0 +1,2013 @@
+
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>B4U Global Official</title>
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="include/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="48x48" href="include/favicon-48x48.png">
+    <link rel="apple-touch-icon" sizes="96x96" href="include/favicon-96x96.png">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="p:domain_verify" content="">
+    
+<!-- This site is optimized with the SEO-->
+	<meta name="description" content="B4U Global a Secure Cryptocurrency Trading Company | B4U Global Daily Profit | B4U Global in Pakistan | B4U Global Official | B4U Global projects" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://b4uglobalofficial.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="B4U Global Official" />
+	<meta property="og:description" content="B4U Global Official - A Secure Cryptocurrency Trading Company || B4U Global Daily Profit || B4U Global in Pakistan || B4U Global Official || B4U Global projects" />
+	<meta property="og:url" content="https://b4uglobalofficial.com/" />
+	<meta property="og:site_name" content="B4U Global | B4U Busniss" />
+	<meta property="article:publisher" content="https://web.facebook.com/B4U-Global-100660985290080" />
+	<meta property="article:modified_time" content="2020-12-05T21:49:05+00:00" />
+	<meta property="og:image" content="http://b4uglobalofficial.com/include/logo-light.png?fit=960%2C960&#038;ssl=1" />
+	<meta property="og:image:width" content="960" />
+	<meta property="og:image:height" content="960" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- / SEO . -->
+
+	<script type="text/javascript" async="" src="include/js.js"></script>
+	<script src="include/osd.js"></script>
+	<!--<script src="include/f.js"></script>
+	<script src="include/f(1).txt" id="google_shimpl"> </script>-->
+	<script type="application/x-javascript"> addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        } </script>
+<!-- to apply for ads i copied it from adsense... sls -->
+<script data-ad-client="ca-pub-3765802593588758" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+    <!-- bootstrap-css -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+    <!--// bootstrap-css -->
+    <!-- css -->
+    <link rel="stylesheet" href="include/style.css" type="text/css" media="all">
+    <!--// css -->
+    <link rel="stylesheet" href="include/owl.carousel.css" type="text/css" media="all">
+    <link href="include/owl.theme.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="include/cm-overlay.css">
+    <!-- font-awesome icons -->
+    
+
+    <link rel="stylesheet" href="include/font-awesome.min.css">
+
+
+
+
+    <!-- //font-awesome icons -->
+    <!--// css -->
+
+
+    <!--//Js -->
+
+
+    <!-- font -->
+    <link href="include/css.css" rel="stylesheet">
+    <link href="include/css(1).css" rel="stylesheet" type="text/css">
+
+<script src="include/jquery.min.js"></script>
+    <script src="include/owl.carousel.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) 
+        {
+
+            $(".scroll").click(function (event) 
+            {
+                event.preventDefault();
+                var urlHash = window.location.href.split("#")[0];
+                console.log($(this.hash).offset());
+                $('html,body').animate({scrollTop: $(this.hash).offset().top}, 1000);
+                //$('html,body').animate({scrollTop: $('#' + urlHash).offset().top}, 1000);
+
+            });
+
+
+
+        });
+
+
+        jQuery(document).ready(function(){
+        jQuery('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+        || location.hostname == this.hostname) {
+        var target = jQuery(this.hash);
+        target = target.length ? target : jQuery('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+        jQuery('html, body').animate({
+        scrollTop: target.offset().top - 90 }, 1000);
+        return false;
+        }
+        }
+        });
+        });
+        jQuery(window).load(function(){
+        function goToByScroll(id){
+        jQuery("html, body").animate({scrollTop: jQuery("#"+id).offset().top - 90 }, 1000);
+        }
+        if(window.location.hash != '') {
+        goToByScroll(window.location.hash.substr(1));
+        }
+        });
+    </script>
+    <!--translations-->
+    <style type="text/css">.txlive {display: none;}
+</style>
+
+    <!-- animation -->
+    <link href="include/animate.css" rel="stylesheet" type="text/css" media="all">
+    <script src="include/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+
+    <!-- //animation -->
+    <script>
+
+        $(document).ready(function () {
+            $("#owl-demo").owlCarousel({
+                autoPlay: 3000, //Set AutoPlay to 3 seconds
+                autoPlay: true,
+                items: 3,
+                itemsDesktop: [640, 5],
+                itemsDesktopSmall: [414, 4]
+            });
+
+        });
+    </script>
+
+    <style>
+        /*nav {background:#FFF;float:left;}
+        nav ul {text-align:center;}*/
+        nav ul li {
+            float: left;
+            display: inline;
+        }
+
+        nav ul li:hover {
+            background: #4CAF50;;
+        }
+
+        nav ul li a {
+            display: block;
+            padding: 5px 5px;
+            color: #444;
+        }
+
+        nav ul li ul {
+            position: absolute;
+            width: 200px;
+            background: #FFF;
+        }
+
+        nav ul li ul li {
+            width: 150px;
+        }
+
+        nav ul li ul li a {
+            display: block;
+            padding: 15px 10px;
+            color: #444;
+        }
+
+        nav ul li ul li:hover a {
+            background: #F7F7F7;
+        }
+
+        nav ul li ul.fallback {
+            display: none;
+        }
+
+        nav ul li:hover ul.fallback {
+            display: block;
+        }
+    </style>
+<script type="text/javascript" src="include/manifest.jsonp"></script>
+
+<script type="text/javascript" src="include/f(4).js"></script>
+<style type="text/css" id="jarallax-clip-0">#jarallax-container-0 {
+   clip: rect(0px 1499px 296px 0);
+   clip: rect(0px, 1499px, 296px, 0);
+}</style><link rel="stylesheet" type="text/css" href="include/widget.css" media="all"></head>
+<body>
+<!-- banner -->
+<div class="banner" style='background: url(include/7.jpg) no-repeat;background-size:cover;'>
+    <!--header-->
+    <div class="header navbar-right" style='background:black;'>
+        <div class="container" >
+            <nav class="navbar navbar-inverse " style="background:#581845;">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <a href="https://www.globalb4u.com/">
+                        <img src="include/logo-light.png" alt='B4U Global Logo'>
+                    </a>
+                                    <!--<h1><a  href="/">B4U Global</a></h1>-->
+                                    </div>
+ 
+                <!--navbar-header-->
+                <div class="navbar-collapse collapse navbar-default" id="bs-example-navbar-collapse-1" aria-expanded="false" style="height: 0px;">
+            
+            
+                <!--  <a class="btn btn-danger btn-sm" href="https://b4uglobal.com/home2">Try Our NewLook</a> -->
+                    <ul class="nav navbar-nav navbar-right" >
+            
+                        <li><a href="https://b4uglobalofficial.com/" class="active" style="color:white;">Home</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.sohailstar.b4uglobalupdates" style="color:white;">App</a></li><!--class="scroll"-->
+                        <li><a href="https://b4uglobalofficial.com/registeration.html" style="color:white;">Companies</a></li>
+<!--
+<li><a href="https://b4uglobalofficial.com/b4uglobal_info.html" style="color:white;">About</a></li>-class="scroll"-->
+
+<!--
+<li><a href="https://chat.b4uglobal.com/php/app.php?widget-iframe-content" style="color:white;">chat</a></li>
+<li><a href="https://b4uglobalofficial.com/promotions.html" style="color:white;">Promotions</a></li>class="scroll"-->
+
+                        
+                        
+<!--                        <li><a href="https://b4uglobalofficial.com/exchange/" style="color:white;">Dollar Shop</a></li>-->
+                        <li><a href="http://blog.b4uglobalofficial.com/"  style="color:white;">Blog</a></li>
+                        <li><a href="https://b4uglobalofficial.com/b4u/contact/" style="color:white;">Contact</a></li>
+
+                                                                                    <li><a href="https://www.globalb4u.com/login" style="color:white;"><b>Login</b></a></li>
+                                <li ><a class="btn btn-danger btn-sm" href="https://www.globalb4u.com/register?B4U00081261" style="color:white;">&nbsp; Register &nbsp;</a></li>
+
+                    </ul>
+
+                    <div class="clearfix"></div>
+                </div>
+            </nav>
+
+        </div>
+    </div>
+    
+    <!--//header-->
+
+
+<div class="w3layouts-banner-info">
+
+
+
+
+
+    <div class="container">
+
+        <div class="w3layouts-banner-slider">
+
+            <div class="slider">
+
+                <div class="callbacks_container">
+
+
+
+
+
+
+                    <ul class="rslides callbacks callbacks1" id="slider4">
+
+                        <li id="callbacks1_s0" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out 0s;">
+
+                            <div class="agileits-banner-info">
+
+                                <h1 style="color:white;font-size:100%;">B4U Global[Duplicate site] - The Name of Trust</h1>
+
+                                <p>
+                                    Online investment platform - Secure Cryptocurrency Trading Company with Daily Profit Growth on Investment
+                               
+
+                                </p>
+
+                            </div>
+
+                        </li>
+
+                     <!--   <li id="callbacks1_s1" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 500ms ease-in-out 0s;" class="callbacks1_on">
+
+                            <div class="agileits-banner-info">
+
+                                <h3>OUR Work</h3>
+
+                                <p>To discuss and solve your B4U Global problum on offically.</p>
+
+                            </div>
+
+                        </li>
+
+                        <li id="callbacks1_s2" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out 0s;" class="">
+
+                            <div class="agileits-banner-info">
+
+                                <h3>Promo 2021 </h3>
+
+                                <p> 
+                                
+
+                                </p>
+
+                            </div>
+
+                        </li>
+-->
+                        <!--<li>
+
+                            <div class="agileits-banner-info">
+
+                                <h3>Most Transparent and Secure Investment platform in the world.</h3>
+
+                                <p>B4U is registered and approved by the Legal authorities in Malaysia, Indonesia, Cambodia and Pakistan</p>
+
+                            </div>
+
+                        </li>-->
+
+                    </ul><ul class="callbacks_tabs callbacks1_tabs"><li class="callbacks1_s1"><a href="https://b4uglobal.com/#" class="callbacks1_s1">1</a></li><li class="callbacks1_s2 callbacks_here"><a href="https://b4uglobal.com/#" class="callbacks1_s2">2</a></li><li class="callbacks1_s3"><a href="https://b4uglobal.com/#" class="callbacks1_s3">3</a></li></ul>
+
+                </div>
+
+
+                <script src="include/responsiveslides.min.js.download"></script>
+
+                <script>
+
+                    // You can also use "$(window).load(function() {"
+
+                    $(function () {
+
+                        // Slideshow 4
+
+                        $("#slider4").responsiveSlides({
+
+                            auto: true,
+
+                            pager: true,
+
+                            nav: false,
+
+                            speed: 500,
+
+                            namespace: "callbacks",
+
+                            before: function () {
+
+                                $('.events').append("<li>before event fired.</li>");
+
+                            },
+
+                            after: function () {
+
+                                $('.events').append("<li>after event fired.</li>");
+
+                            }
+
+                        });
+
+
+                    });
+
+                </script>
+
+
+                <!--banner Slider starts Here-->
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="bounce animated">
+
+    <a href="https://b4uglobalofficial.com/#welcome" class="scroll">
+
+        <div class="mouse"></div>
+
+    </a>
+</div>
+
+
+
+</div>
+
+<!-- //banner -->
+
+
+ 
+
+<div class="welcome" id="welcome">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+            <h2>Welcome to B4U family</h2>
+
+
+        </div>
+
+        <div class="w3l-welcome-info" style="margin: 2em 0 2em 0">
+
+
+            <div class="col-sm-9">
+
+
+
+
+
+
+                <h2>B4U Cab</h2>
+                <p>JOURNEY'S COMFORT, OUR PASSION: <br>
+                </p><ul>
+                    <li>	
+24/7 AVAILABLE
+B4U Cabs are 24/7 available. Book ride and travel anywhere in your city anytime without worrying about peak charges..</li>
+                    <li>	
+LUXURY & COMFORTABLE
+Luxury & Comfortable rides available everywhere in your city. We only hired comfortable cars to provide you perfect ride experience.</li>
+                   
+                   
+                   
+                    <li>PROFESSIONAL DRIVERS
+Verified and professional drivers available to move you anytime. All drivers are local and have exposure to every location in your city.</li>
+                   
+                
+                
+                  <li>	
+MULTIPLE RIDE OPTIONS
+Now call Bike, Rickshaw, Economy, Economy Plus, Executive and Executive Plus rides at your doorstep.</li>
+                  
+                  
+                    <li>You can earn by reffering your Friends and Family</li>
+                
+                
+                
+                
+                
+                </ul>
+                 <a href="https://b4ucabs.com/">https://b4ucabs.com/</a> |
+<a href="https://app.b4ucabs.com/+923498321219/"><small>Register Now (Cab)</small></a>
+              
+
+
+<br/>	
+
+
+
+
+
+
+
+                <h2>B4U Wallet</h2>
+                <p>Now you can save your digital future by using B4U Wallet because: <br>
+                </p><ul>
+                    <li>B4U Wallet is Secured, Convenient and Easy to use.</li>
+                    <li>B4U wallet is not only a wallet but it is easy Exchange.</li>
+                    <li>You can earn by reffering your Friends and Family</li>
+                </ul>
+                For More Details Contact <a href="https://b4uwallet.com/">Official Website</a><br>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+            <div class="col-sm-3" >
+
+
+
+
+            <div class="welcome-img" >
+
+
+						<img src="include/images_slide/cabs.jpeg" class="img-responsive zoom-img"  alt="B4U Cab">
+<br/>
+                 <a href="https://b4ucabs.com/">Webiste</a> |
+<a href="https://app.b4ucabs.com/+923498321219/"><small>Register Now</small></a>
+ 
+</div>
+<br/>
+            <div class="welcome-img" >
+						<img src="include/wallet.png" class="img-responsive zoom-img"  alt="">
+
+
+
+					</div>
+						<a href="https://play.google.com/store/apps/details?id=com.b4uwallet.android"><img src="include/wallet_droid.png" class="img-responsive zoom-img" style="float:left; width:50%;" alt=""></a>
+						<a href="https://apps.apple.com/us/app/b4u-wallet/id1491304459?ls=1"><img src="include/wallet_ios.png" class="img-responsive zoom-img" style="float:right; width:50%;" alt=""></a>
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="clearfix"></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- //welcome -->
+
+<!-- about -->
+
+<div class="about" id="about" style="background-color: #A3238E;">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <h3>Good To Know</h3>
+
+        </div>
+
+        <div class="w3ls-about-grids">
+
+
+            <div class="col-md-6 about-left">
+
+                <h4>What we do?</h4>
+
+                <p> B4U a Secure Cryptocurrency Trading Company its Infrastructure Facilitates Investment in the
+                    Cryptocurrencies industry with Daily Profit Growth on Investment.<br><br> B4U is group of people who
+                    have large experience of trading, investment tricks and market scope.
+
+                    <span>By using their skills and expertise we trade your investment in the market and earn profit. our major investment domains are as following:  </span>
+                </p>
+
+                <ul >
+
+                    <li style="color:white;"><span class="glyphicon glyphicon-share-alt"></span> Investment in property deals</li>
+
+                    <li style="color:white;"><span class="glyphicon glyphicon-share-alt"></span> Investment in Crypto Exchange</li>
+
+                    <li style="color:white;"><span class="glyphicon glyphicon-share-alt"></span> Investment in Information Technologies</li>
+
+                    <li style="color:white;"><span class="glyphicon glyphicon-share-alt"></span> Investment in Transport Services</li>
+
+                    <li style="color:white;"><span class="glyphicon glyphicon-share-alt"></span> Investment in Trading</li>
+
+                </ul>
+
+
+                               <!-- <iframe max-width="527" height="309" src="https://www.youtube.com/embed/p7UxzbiOT_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                -->
+
+
+
+            </div>
+
+            <div class="col-md-6 about-right">
+
+
+<!-- Bitcoin (BTC) Price Chart Widget 
+<div class="btcwdgt-chart" bw-cash="true" bw-theme="light"></div>
+-->
+<div class="btcwdgt-chart"></div>
+
+
+<!-- Simple Price Widget -->
+<!--
+<div class="btcwdgt-price" bw-cur="usd"></div>
+-->
+            </div>
+
+            <div class="clearfix"></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- //about -->
+
+<!-- Test -->
+
+<div class="profit" id="profit">
+
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <h3>Profit Chart</h3>
+
+        </div>
+
+        <div class="w3ls-about-grids">
+
+
+<link rel="stylesheet" href="include/fullcalendar.min.css">
+<script src="include/moment.min.js.download"></script>
+<script src="include/fullcalendar.min.js.download"></script>
+	<style>
+		.fc-basic-view .fc-day-number {
+			text-align: left !important;
+		}
+		.fc th {
+			text-align: left;
+		}
+		.fc-sat{
+			background-color: pink !important;
+			
+			position: relative;
+		}
+		
+		
+		.fc-sat:after{
+			content: " ";
+			overflow: hidden;
+			position: absolute;
+			top: 0;
+			right: 40px;
+			<!--right: 0;-->
+			z-index: -1;
+		}
+		.fc-sun {
+			background-color:pink!important;
+			position: relative;
+		}
+	
+		.fc-sun:after{
+			content: " ";
+			overflow: hidden;
+			position: absolute;
+			top: 0;
+			right: 40px;
+			<!--right: 0;-->
+			z-index: -1;
+		}
+		
+		.fc-event {
+			border: none !important; /* default BORDER color */
+			background-color:#6c175c !important; /* default BACKGROUND color */
+			color: #fff !important;               /* default TEXT color */
+			font-size: 1em !important;            /* EDIT HERE */
+		
+		}
+		/* .fc-widget-header,.fc-sat{
+			position: relative;
+		} 
+		.fc-widget-header,.fc-sat:before {
+			position: absolute;
+			content: "Weekend";
+			visibility: hidden;
+		}  */
+	</style>
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="col-md-6" style='  text-align: right;'>
+<h3>How to earn from b4u global?</h3>
+B4U global Company آپ <br/> 
+  میں دو طرح سے کام کر سکتے ہیں۔<br/>
+۔1 آپ صرف انویسٹمنٹ کرے اور ماہانہ کمائین <br/>
+آپکو ماہانہ 7 سے 20 پرسنٹ تک ملے گا۔
+مثلا ایک لاکھ کی انویسٹمنٹ پر آپکو ماہانہ 7 ہزار سے 20 ہزار تک کی آمدنی ہوگی۔(فکس نہیں ہے)<br/>
+کسی ماہ 10 ہزار بھی مل سکتے ہیں کسی ماہ 15 ہزار کسی ماہ 9 ہزار۔مطلب 7 ہزار سے کم نہیں اور 20 ہزار سے زیادہ نہیں ملے گا ۔<br/>
+2۔ آپ اس میں اگر تھوڑی محنت کریں تو کمپنی آپکو آپ کی محنت پر بھی منافع دیگی۔جس سے آپ روز کے ایکسٹرا ڈالر بھی کما سکتے ہیں تھوڑی سی محنت کر کے۔<br/>
+آپ اپنے دوست احباب رشتے داروں کو اس کام کا بتائیں اور انکی انویسٹیمنٹ کروائیں کمپنی آپکو آپ کی پیکج کے حساب سے کم سے کم 3 پرسنٹ اور زیادہ سے زیادہ 12 پرسنٹ تک بونس دیگی۔<br/>
+اور مزے کی بات آپکے لاۓ ہوئے ممبر کو ملنے والے منافعے کا بھی مختلف فیصد آپکو دیگی ۔<br/>
+جس سے آپ اپنی ذاتی انویسٹیمنٹ سے زیادہ ریفرل آمدنی سے لطف اندوز ہونگے ۔<br/>
+<br/>
+For more information about B4U Call or What'sAap number 03498321219
+	
+</div>
+	
+	
+	<div class="col-md-6">
+	
+	
+	                <img style="margin: 0 auto; max-width:100%; max-height: 400px;" src="include/pro.jpeg" alt="">
+
+	
+	<!-- daily profit here sls-->
+	
+	</div>
+
+           <div class="clearfix"></div>
+
+
+        </div>
+
+    </div>
+
+</div>
+<br>
+
+<!-- services -->
+<!-- promo -->
+
+<div class="promo" id="promo" style="background-color: #A3238E; padding-top: 30px; padding-bottom:  70px;">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <h3>Projects</h3>
+<center style='color:white;'>https://b4uglobalofficial.com/</center>
+
+        </div>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+            <ol class="carousel-indicators">
+                                    <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                                    <li data-target="#carousel-example-generic" data-slide-to="3" class="active"></li>
+                            </ol>
+
+
+            <a href="#">
+                <div class="carousel-inner" role="listbox" style='height:320px'>
+                    
+
+
+                          <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/images_slide/romaisa.jpeg" alt="Romaisa Residency and B4U Aillas a project of B4U group of companies">
+                        </div>
+                         <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/images_slide/cabs.jpeg" alt="Cabs B4U">
+                        </div>
+                         <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/images_slide/revolt.jpeg" alt="revolt B4U">
+                        </div>
+                         <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/images_slide/agrozem.jpeg" alt="Agrozem B4U">
+                        </div>
+
+
+                        <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/app.png" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/sheikhshami.jpeg" alt="sheikhshami with ceo B4U">
+                        </div>
+
+                        <div class="item active">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/target.jpeg" alt="">
+                        </div>
+                        
+                        
+
+                         <div class="item">
+                            <img style="margin: 0 auto; max-height: 400px;" src="include/images_slide/bravo.jpeg" alt="Bravo super market B4U">
+                        </div>
+
+
+
+                                    </div>
+            </a>
+            
+            
+            
+        </div>
+    </div>
+</div>
+
+<!-- //promo -->
+
+
+<div class="services" id="services">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <h3>Investment Plans</h3>
+
+        </div>
+
+        <!--<div class="agileits-services-grids">
+
+            <div class="col-md-12 agileits-services-left">
+
+                <h4>At a glance</h4>
+
+                <div class="agileits-services-text">
+
+                    <p>Very easy way to invest in any local, international or crypto currency </p>
+
+                </div>
+            </div>
+        </div>
+-->
+
+
+
+    </div>
+
+</div>
+
+<!-- plans -->
+
+<div class="plans" id="plans">
+
+    <style>
+    hr {
+        margin: 0px !important;
+
+    }
+
+    h3 {
+        margin: 0px !important;
+
+    }
+    
+    <!--
+    .agileits-services-info {
+        border-bottom: 1px solid #000;
+        padding-bottom: 2px;
+    }
+
+    -->
+    .services-info {
+        border-bottom: 1px solid #000;
+        padding-bottom: 22px;
+        
+    }
+
+    .services-info2 {
+        padding-bottom: 22px;
+        padding-top: 22px;
+        
+    }
+
+
+
+    .textfont {
+        font-size: 13px;
+        margin: 0 auto;
+    }
+</style>
+
+
+
+
+<div class="container">
+
+       <div class="col-md-12" id="plans">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/warning.png">Limits & Tax</h3>
+                <hr>
+<br/>
+                                    <p class="textfont"><i class="fa fa-"></i><strong>Read carefully</strong> 
+                     </p>
+                                <hr>
+               
+                         <p class="textfont"><i class="fa fa-"><a href="https://b4uglobalofficial.com/">https://b4uglobalofficial.com/</a></i>
+                         
+                        Must deposit more than <b>Minimum-Limit in Bank (Online transfers to Bank)</b>, Otherwise it will not approve and consider as dummy
+            <small>( Solution : You will need remaining deposit in second transection and upload both invoice to B4U) 
+            ($1=150 Pakistani rupies - constant value for deposit and withdraw)</small>
+            For deposit/Withdraw less amount then min-limit you can transfer $dolor from/to your Leader (referral) 
+            or can buy/sale from/to US through WhatsApp <b style="white-space: nowrap;">0092-349-8321219</b>
+                         <br/> <b style="background-color:red;color:yellow;">Uploading one invoice twice may Defaulter(Temporary Block) Account&nbsp;</b>
+                         </p>
+                        
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:100%;">
+
+                            <div class="agileits-services-info2">
+                                <h4 style="background-color:yellow;">Pakistani Members</h4>
+                                <hr>
+                                <div class="services-info2">
+                                    <div style="float:left; font-size: 13px;   width:85%;">Deposit to Bank Minimum:</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$710
+                
+                                    </div>
+                                </div>
+                                <div class="services-info2">
+                                    <div style="float:left; font-size: 13px;   width:85%;">Withdraw through Bank Minimum</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$710
+                                        
+                                    </div>
+                                </div>
+                                <div class="services-info2">
+                                    <div style="float:left; font-size: 13px;   width:85%;">Transfer to Account of bonas/Profit minimum:</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$40
+                                        
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="services-info2">
+                                    <div style="float:left; font-size: 13px;   width:85%;">Transfer to Cashbox minimum:</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$30
+                                        
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="services-info2">
+                                    <div style="float:left; font-size: 13px;   width:85%;">Cashbox to Cashbox transfer Tax:</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$0<br/>
+                                    </div>
+                                </div>
+                                
+                                <div class="services-info2">
+                                       <div style="float:left; font-size: 13px;   width:85%;">Transfer to Account upto $299 - Tax:</div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">$0<br/>
+                                    </div>
+                                </div>
+                                
+                                <div class="services-info2">
+                                       <div style="float:left; font-size: 13px;   width:85%; background-color:red;color:yellow;"><b>
+                                           Tax may change with with change in policy?</b>
+                                           </div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">Yes<br/>
+                                    </div>
+                                </div>
+                                
+                                
+                                
+                                
+                                                                <div class="services-info2">
+                                       <div style="float:left; font-size: 13px;   width:85%; "><b>
+                                           You can do networking without your Personel Investment? if $0 in Investment.</b>
+                                           </div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">Yes<br/>
+                                    </div>
+                                </div>
+                                
+                                
+                                
+                                                          <div class="services-info2">
+                                       <div style="float:left; font-size: 13px;   width:85%; "><b>
+                                           You can do withdraw bonas if $0 in Investment.</b>
+                                           </div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">No<br/>
+                                    </div>
+                                </div>
+                                
+                                
+                                                       <div class="services-info2">
+                                       <div style="float:left; font-size: 13px;   width:85%; background-color:black;color:yellow;"><b>
+                                           You can do reverse transactions if sended in case of Fraud etc.</b>
+                                           </div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">In time<br/>
+                                    </div>
+                                </div>
+                                
+                                <br/>
+                                
+                                
+                                
+                            <div class="services-info2">
+                               <div style="float:left; font-size: 13px;   width:85%; background-color:yellow;color:black;"><b>
+                                      To Change your Leader after 4 Months of investment (Closed- Not possible now).</b>
+                                       </div>
+                                    <div style="float:right; width:15%; color:red; text-align:left;">
+                                        
+                                        <a href="https://api.whatsapp.com/send?phone=923498321219&text=I%20want%20to%20change%20my%20leader!">Click Me</a>
+                                    </div>
+                                </div>
+                                
+                                
+                                
+                                  <br/> <br/>
+                                
+                                <div class="services-info">
+<a href="https://b4uglobalofficial.com/">https://b4uglobalofficial.com/</a>
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/tiffany.png"> TIFFANY </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $50+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $4999 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">2
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/bluemoon.png"> BLUEMOON </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $700+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $5000 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">7
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">0
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/aurora.png"> AURORA </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $3000+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $30000 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">10
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">7
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/cullinan.png"> CULLINAN </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $10000+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $100000 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">10
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">8
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">1
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/sancy.png"> SANCY </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $30000+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $500000 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">12
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">10
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    
+        <div class="col-md-4">
+            <div class="sign-up-row agile-news-info" style="width:100%; margin-bottom:10px; text-align:left;">
+                <h3><img style="width:70px;" src="include/koh-e-noor.png"> KOH I NOOR </h3>
+                <hr>
+                <p><font color="blue"><i class="fa fa-star"></i></font> Criteria For Join This Plan : </p>
+                                    <p class="textfont"><i class="fa fa-"></i>Personel Investment
+                        : $50000+Deposit Tax </p>
+                                <p class="textfont">OR</p>
+                                    <p class="textfont"><i class="fa fa-"></i>Attracted Funds
+                        : $1000000 </p>
+                                <hr>
+                <strong>Referal Bonuses : </strong>
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <td style="width:50%;">
+
+                            <div class="agileits-services-info">
+                                <h6>Investment Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">First Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">15
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Second Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">7
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Third Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px;   width:70%;">Fourth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+                        <td style="width:50%;">
+                            <div class="agileits-services-info">
+                                <h6>Profit Bonus</h6>
+                                <hr>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">First Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">12
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left;  font-size: 14px; width:70%;">Second Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">5
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Third Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fourth Line:</div>
+                                    <div style="float:right; font-size: 14px;  width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="">
+                                    <div style="float:left; font-size: 14px; width:70%;">Fifth Line:</div>
+                                    <div style="float:right; font-size: 14px; width:30%; color:red; text-align:left;">3
+                                        %
+                                    </div>
+                                </div>
+                                <div class="services-info">
+
+                                </div>
+                            </div>
+                        </td>
+
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>
+
+
+
+
+
+<!-- news -->
+
+
+<div class="news" id="news">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <a href="https://b4uglobal.com/events_gallery"><h3>B4U Events</h3></a>
+
+        </div>
+
+        <div class="w3ls-news-grids">
+
+
+
+
+
+
+
+
+                      <div class="col-md-6 ">
+
+<marquee><h2>Bank Withdraw is closed from 1+ Month...</h2></marquee>
+</div>
+
+
+   
+<div class="clearfix"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <div class="col-md-6 ">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Your account has been suspended due to wrong Attempts with password, Please contact to Support Admin to make your account enable.</p>&mdash; B4U Global official (@b4uglobaloffic) <a href="https://twitter.com/b4uglobaloffic/status/1345406411593940999?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+
+                            <div class="col-md-6 ">
+
+                    
+   
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">B4U Global Withdraw/Deposit limit through Bank is $710.</p>&mdash; B4U Global official (@b4uglobaloffic) <a href="https://twitter.com/b4uglobaloffic/status/1344731728833818625?ref_src=twsrc%5Etfw">December 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+   
+<div class="clearfix"></div>
+
+
+<div class="col-md-6 ">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">System upgraded and site is in working now. Now livechat also available in dashboard<br>Maintenance done, website live. <br>Updates include:<br>1. More options for 2FA,<br>2. Live chat at dashboard,<br>3. Email status (verified/not verified) etc.</p>&mdash; B4U Global official (@b4uglobaloffic) <a href="https://twitter.com/b4uglobaloffic/status/1345097235172884482?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+      <div class="col-md-6 ">
+
+                    
+   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“We’re working hard to make this website(Cashbox) available again on Soon. You will then find a new design and our new collection!<br><br>Until then we look forward to seeing you on our B4U.</p>&mdash; B4U Global official (@b4uglobaloffic) <a href="https://twitter.com/b4uglobaloffic/status/1345042509408448512?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+                </div>
+
+            
+            <div class="clearfix"></div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+</div>
+
+
+<!--//news -->
+
+
+
+<div class="contact" id="contact">
+
+    <div class="container">
+
+        <div class="w3-welcome-heading">
+
+            <h3>Contact Us</h3>
+
+        </div>
+
+        <div class="agile-contact-grids">
+            <div class="col-md-4 agileits-w3layouts-address">
+
+                
+
+                <div class="agileits-w3layouts-address-top">
+
+                    <h5>Office Address</h5>
+
+                    <ul>
+
+                        <li>SR DIGITAL WORLD SPC</li>
+                        <li>Office 2928 Entrance 316 ROAD 4609</li>
+                        <li>MANAMA</li>
+
+                    </ul>
+
+                </div>
+
+
+</div></div>
+
+
+
+        <div class="agile-contact-grids">
+            <div class="col-md-4 agileits-w3layouts-address">
+
+
+
+
+                <div class="agileits-w3layouts-address-top">
+
+                    <h5>Mr Saif Ur Rehman Niazi (CEO)</h5>
+
+                    <ul>
+
+                        <li><a href="https://api.whatsapp.com/send?phone=923009407955">+92 300 9407955</a>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+
+</div></div>
+
+
+        <div class="agile-contact-grids">
+            <div class="col-md-4 agileits-w3layouts-address">
+
+
+                <div class="agileits-w3layouts-address-top">
+
+                    <h5>Email</h5>
+
+                    <ul>
+
+                        <li><a href="/cdn-cgi/l/email-protection#562523262639242216346223313a3934373a7835393b"> <span class="__cf_email__" data-cfemail="f4878184849b8680b496c08193989b969598da979b99">[email&#160;protected]</span></a>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+
+
+
+
+
+
+   <div class="agile-contact-grids">
+            <div class="col-md-4 agileits-w3layouts-address">
+
+
+                <div class="agileits-w3layouts-address-top">
+
+                    <h5>B4U Help Line</h5>
+
+                    <ul>
+
+                        <li>+92 42 32503445
+                        </li>
+                        
+                        <li><small>If you are Register User and your packege is activated.</small>
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+</div>
+
+<!-- //contact -->
+
+<!-- footer -->
+
+<div class="jarallax footer" style="background-color: rgb(163, 35, 142); background-image: none; background-attachment: scroll; background-size: auto;">
+
+    <div class="container">
+
+        <div class="footer-logo">
+
+            <h3><a href="https://www.globalb4u.com/">B4U Global</a></h3>
+
+        </div>
+
+        <div class="agileinfo-social-grids">
+
+            <h4>We are social</h4>
+
+            <div class="border"></div>
+
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+            <ul>
+
+                <li><a href="https://web.facebook.com/groups/1539998819544172/"><i class="fa fa-facebook"></i></a></li>
+
+                <li><a href="https://twitter.com/b4uglobaloffic"><i class="fa fa-twitter"></i></a></li>
+
+               
+
+            </ul>
+
+        </div>
+
+        <div class="copyright">
+
+            <p>© 2020 B4U Global. All rights reserved</p>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- //copyright -->
+
+
+
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="include/bootstrap.js.download"></script>
+
+<script src="include/jarallax.js.download"></script>
+
+<script src="include/SmoothScroll.min.js.download"></script>
+
+<script type="text/javascript">
+
+    /* init Jarallax */
+
+    $('.jarallax').jarallax({
+
+        speed: 0.5,
+
+        imgWidth: 1366,
+
+        imgHeight: 768
+
+    })
+
+</script>
+
+<script type="text/javascript" src="include/move-top.js.download"></script>
+
+<script type="text/javascript" src="include/easing.js.download"></script>
+
+<!-- here stars scrolling icon -->
+
+<script type="text/javascript">
+
+
+    $('.single-item').slick();
+
+
+</script>
+
+<!-- //here ends scrolling icon -->
+
+<script src="include/owl.carousel.js.download"></script>
+
+
+
+<script>
+  (function(b,i,t,C,O,I,N) {
+    window.addEventListener('load',function() {
+      if(b.getElementById(C))return;
+      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
+      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
+    },false)
+  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
+</script>
+
+
+<!--Jquery-->
+<!--Floating WhatsApp css-->
+<link rel="stylesheet" href="include/floating-wpp.min.css">
+<!--Floating WhatsApp javascript-->
+<script type="text/javascript" src="include/floating-wpp.min.js"></script>
+
+
+        <div id="WAButton" style="margin-bottom:20px;"></div>
+        <script>
+            
+            $(function() {
+  $('#WAButton').floatingWhatsApp({
+    phone: '+923498321219', //WhatsApp Business phone number International format-
+    //Get it with Toky at https://toky.co/en/features/whatsapp.
+    headerTitle: 'Chat with us on WhatsApp!', //Popup Title
+    popupMessage: 'Hello, how can we help you unofficially (General Questions)?', //Popup Message
+    showPopup: true, //Enables popup display
+    buttonImage: '<img src="include/whatsapp.svg" />', //Button Image
+    //headerColor: 'crimson', //Custom header color
+    //backgroundColor: 'crimson', //Custom background button color
+    position: "right"    
+  });
+});
+
+//alert("B4U Global is Under Maintenance so wait... for login may not work.");
+
+        </script>
+
+
+
+
+
+   
+
+
+
+<script>
+function printContent(el){
+var restorepage = $('body').html();
+var printcontent = $('#' + el).clone();
+$('body').empty().html(printcontent);
+window.print();
+$('body').html(restorepage);
+}
+//printContent('plans');//id of printing div eg plans
+</script>
+
+
+</body></html>
